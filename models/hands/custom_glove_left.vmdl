@@ -1,0 +1,641 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BoneMarkupList"
+				children = 
+				[
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_middle_l_end"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_middle_2_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_middle_1_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_middle_0_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_pinky_l_end"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_pinky_2_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_pinky_1_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_pinky_0_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_index_l_end"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_index_2_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_index_1_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_index_0_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_thumb_l_end"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_thumb_2_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_thumb_1_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_middle_meta_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_pinky_meta_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_index_meta_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_ring_meta_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_thumb_0_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "weapon_hand_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "grabbity_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "arm_lower_l_twist1"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "controller_hand_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "hand_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "arm_lower_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_ring_l_end"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_ring_2_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_ring_1_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+					{
+						_class = "BoneMarkup"
+						target_bone = "finger_ring_0_l"
+						ignore_Translation = false
+						ignore_rotation = false
+						do_not_discard = true
+					},
+				]
+				bone_cull_type = "Aggressive"
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_thumb_2_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.73507, 0.200481, 0.059832 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_thumb_1_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 1.31272, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_index_2_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_index_1_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_index_0_l"
+							radius = 0.5
+							point0 = [ 0.300153, 0.116587, -0.002267 ]
+							point1 = [ 1.85921, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_middle_0_l"
+							radius = 0.5
+							point0 = [ 0.300153, 0.116587, -0.002267 ]
+							point1 = [ 1.85921, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_ring_0_l"
+							radius = 0.5
+							point0 = [ 0.300153, 0.116587, -0.002267 ]
+							point1 = [ 1.85921, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_pinky_0_l"
+							radius = 0.5
+							point0 = [ 0.300153, 0.116587, -0.002267 ]
+							point1 = [ 1.84118, 0.127598, 0.037245 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_middle_1_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_ring_1_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_pinky_1_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_middle_2_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_ring_2_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "finger_pinky_2_l"
+							radius = 0.5
+							point0 = [ 0.00841, 0.116587, -0.002267 ]
+							point1 = [ 0.652182, 0.116587, -0.002267 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "hand_l"
+							radius = 0.8
+							point0 = [ 0.206897, 0.165852, -0.535471 ]
+							point1 = [ 2.49188, 0.310574, -0.542588 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = "hand_l"
+							radius = 0.8
+							point0 = [ 0.104545, -0.1206, 0.725378 ]
+							point1 = [ 2.31149, 0.199312, 1.13137 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "high_quality_shadows_region"
+						game_keys = 
+						{
+							bonename = "hand_l"
+							radius = 12.0
+							center = [ 10.3245, 1.35095, 1.49522 ]
+							key_light_target0 = "vr_palm"
+							key_light_target1 = "hq_shadows_hint_0"
+							key_light_target2 = "hq_shadows_hint_1"
+							key_light_target3 = "hq_shadows_hint_2"
+							key_light_target4 = ""
+							key_light_target5 = ""
+							key_light_target6 = ""
+							key_light_target7 = ""
+						}
+					},
+				]
+			},
+			{
+				_class = "BodyGroupList"
+				children = 
+				[
+					{
+						_class = "BodyGroup"
+						name = "glove_type"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"alyx_hand_model",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"gordon_glove",
+								]
+							},
+						]
+						disabled = true
+						hidden_in_tools = false
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "vr_palm"
+						parent_bone = "hand_l"
+						relative_origin = [ 2.38067, 0.662779, 0.44717 ]
+						relative_angles = [ -2.08272, 97.753998, 81.8228 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "grabbity_glove"
+						parent_bone = "finger_middle_meta_L"
+						relative_origin = [ 1.5393, 0.697984, 0.220123 ]
+						relative_angles = [ -0.347405, 4.58226, 171.473007 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "flashlight"
+						parent_bone = "controller_hand_L"
+						relative_origin = [ 0.825107, 3.24714, -1.88122 ]
+						relative_angles = [ 85.069099, -89.999901, -89.999901 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "thumb_tip"
+						parent_bone = "finger_thumb_L_END"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "index_finger_tip"
+						parent_bone = "finger_index_l_end"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "middle_finger_tip"
+						parent_bone = "finger_middle_L_END"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "ring_finger_tip"
+						parent_bone = "finger_ring_l_end"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "pinky_finger_tip"
+						parent_bone = "finger_pinky_l_end"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "wrist_pocket"
+						parent_bone = "controller_hand_l"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ -90.0, 90.000031, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "item_holder_l"
+						parent_bone = "arm_lower_l"
+						relative_origin = [ -1.75, 0.0, 0.0 ]
+						relative_angles = [ -0.0, 0.0, -180.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "item_holder_r"
+						parent_bone = "arm_lower_l"
+						relative_origin = [ -1.75, 0.0, 0.0 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "hq_shadows_hint_0"
+						parent_bone = "hand_l"
+						relative_origin = [ 13.6361, 1.93142, -2.03394 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "hq_shadows_hint_1"
+						parent_bone = "hand_l"
+						relative_origin = [ 10.6871, 4.7371, 2.0777 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "hq_shadows_hint_2"
+						parent_bone = "hand_l"
+						relative_origin = [ 11.3388, -0.048692, 1.90206 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "alyx_hand_model"
+						disabled = true
+						filename = "models/hands/alyx_glove/alyx_glove_left.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = 
+							[
+								"renderMeshShape1",
+							]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "gordon_glove"
+						disabled = true
+						filename = "models/hands/alyx_glove/alyx_glove_left.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = 
+							[
+								"renderMeshShape0",
+							]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "custom_glove"
+						filename = "models/hands/csgo/hardknuckles_left.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = 
+							[
+								"renderMesh0",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

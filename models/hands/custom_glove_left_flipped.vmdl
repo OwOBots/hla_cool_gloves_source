@@ -1,0 +1,38 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						scale = 1.0
+						mirror_x = false
+						mirror_y = true
+						mirror_z = false
+						flip_bone_forward = true
+						swap_left_and_right_bones = true
+					},
+				]
+			},
+			{
+				_class = "PrefabList"
+				children = 
+				[
+					{
+						_class = "Prefab"
+						target_file = "models/hands/custom_glove_left.vmdl"
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}
